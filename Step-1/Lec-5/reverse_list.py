@@ -10,4 +10,10 @@ class Solution:
 
 solution = Solution()
 
-solution.reverseList([1, 2, 3, 4])
+# solution.reverseList([1, 2, 3, 4])
+
+# To check reverse on a string
+
+str1 = "abc"
+str1 = str1[::-1]
+print(str1)
